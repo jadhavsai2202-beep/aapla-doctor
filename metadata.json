@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Aapla Doctor - Healthcare Portal",
+  "description": "A multilingual healthcare portal providing medicine information, symptom checking, first aid guidance, and nearby hospital location services in English, Marathi, and Hindi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
